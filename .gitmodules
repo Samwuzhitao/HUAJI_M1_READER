@@ -1,0 +1,6 @@
+[submodule "HUAJI_M1_READER_PC"]
+	path = HUAJI_M1_READER_PC
+	url = https://github.com/Samwuzhitao/HUAJI_M1_READER_PC.git
+[submodule "HUAJI_M1_READER_MCU"]
+	path = HUAJI_M1_READER_MCU
+	url = https://github.com/Samwuzhitao/HUAJI_M1_READER_MCU.git
